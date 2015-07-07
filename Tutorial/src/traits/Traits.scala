@@ -22,7 +22,7 @@ trait Traits1 {
 
 object Test extends Traits with Traits1{
    def main(args: Array[String]) {
-      println(multi(2, 3))
+      println(multi(2, 2))
       println(sum(2, 3))
    }
 }
