@@ -19,6 +19,5 @@ object Test extends Ejemplo {
       case "rest" => rest(a, b)
     }
     println(matchTest("rest", 3, 3))
-
   }
 }
