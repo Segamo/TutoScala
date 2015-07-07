@@ -18,7 +18,7 @@ object Test extends Ejemplo {
       case "div"  => div(a, b)
       case "rest" => rest(a, b)
     }
-    println(matchTest("rest", 2, 3))
+    println(matchTest("rest", 3, 3))
 
   }
 }
