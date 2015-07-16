@@ -21,7 +21,7 @@ object Tavas {
         println(special(b))
       } else {
         if (a == 0) {
-          println(oneToTen(b))
+          println(oneToTen(b))  
         } else {
           if (b == 0) {
             println(tens(a))
