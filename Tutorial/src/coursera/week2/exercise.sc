@@ -28,13 +28,4 @@ object exercise {
                                                   //> fact: (x: Int)Int
   1 - 0.9                                         //> res1: Double(0.09999999999999998) = 0.09999999999999998
   200000000 + 2000000000                          //> res2: Int(-2094967296) = -2094967296
-  //Binario a Decimal
-  Integer.parseInt("101101101", 2)                //> res3: Int = 365
-  256 + 64 + 32 + 8 + 4 + 1                       //> res4: Int = 365
-
-  math.IEEEremainder(4, 2)                        //> res5: Double = 0.0
-
-  "Hola' Coso'"                                   //> res6: String("Hola\' Coso\'") = Hola' Coso'
-  println("\u2230")                               //> ?
-  """ Hola puto \n \n "Asd" """                   //> res7: String(" Hola puto \\n \\n \"Asd\" ") = " Hola puto \n \n "Asd" "
 }
