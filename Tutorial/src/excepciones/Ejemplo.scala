@@ -13,9 +13,7 @@ object Ejemplo {
           "Fallo"
         }
       }
-
     }
-        
     println(div(5, 0))
   }
 }
