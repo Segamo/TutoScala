@@ -1,3 +1,8 @@
-# TutoScala
+# Allure Scalatest Example
+This repository shows how to use Allure report with your Scalatest project.
 
-Tuto Scala
+## Usage
+To run this example simply type:
+```bash
+$ sbt test
+```
